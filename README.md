@@ -20,12 +20,12 @@
 Copia esto en tu **Terminal**
 	
 ```sh
-git clone https://github.com/avdyan/portfolio.git
+git clone https://github.com/0xdres/portfolio.git
 ```
 
 > **Nota**: Necesitas tener ``git`` instalado en tu sistema.
 
-O solamente descarga este repositorio como ``ZIP`` [aquí](https://github.com/avdyan/portfolio/archive/refs/heads/main.zip)
+O solamente descarga este repositorio como ``ZIP`` [aquí](https://github.com/0xdres/portfolio/archive/refs/heads/main.zip)
 
 ## :question: <samp>¿Ahora?</samp>
 
@@ -37,7 +37,7 @@ O solamente descarga este repositorio como ``ZIP`` [aquí](https://github.com/av
 - Guarda todo los cambios y sube la carpeta a un repositorio de Github y activa Github Pages en las configuraciones.
 - Listo, ahora compartelo con tus colegas.
 
-Si necesitas pasos más detallados sigue este [`tutorial`](https://www.cachecuantico.com/2022/09/crear-un-portfolio-web.html)
+Si necesitas pasos más detallados sigue este [`tutorial`](https://andressable.vercel.app/posts/crear-portafolio-web.html)
 
 ## :two_hearts: **Gracias a**
 
